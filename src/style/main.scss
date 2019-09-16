@@ -1,0 +1,24 @@
+@import 'base/reset';
+@import 'utils/variables';
+@import 'base/typography';
+@import 'base/fonts';
+@import 'base/icomoon';
+
+@import 'vendors/bootstrap-reboot.scss';
+@import 'vendors/bootstrap';
+@import 'vendors/bootstrap-grid';
+
+
+
+@import 'components/buttons';
+@import 'components/carousel';
+@import 'components/cover';
+
+@import 'layout/content';
+@import 'layout/footer';
+@import 'layout/header';
+@import 'layout/navigation';
+
+@import 'utils/functions';
+@import 'utils/helpers';
+@import 'utils/mixins';
